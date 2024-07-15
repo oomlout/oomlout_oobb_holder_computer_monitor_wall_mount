@@ -2,5 +2,5 @@ project_id: oomlout_oobb_holder_computer_monitor_wall_mount
 project_name: Oomlout Oobb Holder Computer Monitor Wall Mount
 project_repo: https://github.com/oomlout/oomlout_oobb_holder_computer_monitor_wall_mount
 production_format:
-  oolc_1:
+  oolc_1_oomlout_oobb_holder_computer_monitor_wall_mount_main:
     file_location: source_files/oolc_1.cdr
